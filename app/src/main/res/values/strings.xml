@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flag Quiz ZP82</string>
+    <string name="question">Question %l from %2$d</string>
+    <string name="image_discription">image</string>
+    <string name="guess_country">That is me name</string>
+    <string name="button">button</string>
+    <string name="text_view">Information for User</string>
+</resources>
